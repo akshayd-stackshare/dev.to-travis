@@ -3,7 +3,7 @@
   <img alt="DEV" src="https://thepracticaldev.s3.amazonaws.com/i/ro3538by3b2fupbs63sr.png" width="500px">
   <h1>DEV Community 👩‍💻👨‍💻</h1>
   <strong>The Human Layer of the Stack</strong>
-</div>
+</div>a
 <br>
 <p align="center">
   <a href="https://www.ruby-lang.org/en/">
